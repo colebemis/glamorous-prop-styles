@@ -1,0 +1,19 @@
+{
+  "name": "glamorous-prop-styles",
+  "version": "1.0.0",
+  "description": "Easily create glamorous components that accept prop flags for styles",
+  "main": "src/prop-styles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colebemis/glamorous-prop-styles.git"
+  },
+  "author": "Cole Bemis <cole@colebemis.com> (http://colebemis.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colebemis/glamorous-prop-styles/issues"
+  },
+  "homepage": "https://github.com/colebemis/glamorous-prop-styles#readme"
+}
