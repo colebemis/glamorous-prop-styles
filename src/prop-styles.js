@@ -1,6 +1,6 @@
 /**
  * Makes it easier to create glamorous components that
- * accept props to enable/disable certain styles.
+ * accept props to enable/disable styles.
  *
  * Accepts an object where the key is a prop and the value is
  * the styles object that should be applied if that prop is passed.
