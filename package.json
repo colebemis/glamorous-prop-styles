@@ -4,6 +4,7 @@
   "description": "Easily create glamorous components that accept prop flags for styles",
   "main": "src/prop-styles.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/colebemis/glamorous-prop-styles/issues"
   },
-  "homepage": "https://github.com/colebemis/glamorous-prop-styles#readme"
+  "homepage": "https://github.com/colebemis/glamorous-prop-styles#readme",
+  "devDependencies": {
+    "eslint": "^4.4.1"
+  }
 }
